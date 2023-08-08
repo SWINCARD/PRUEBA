@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click', function() {
-    alert('Sabia que ibas a decir que Si')
+    alert('En geogebra 3D coloca --->   a(x,y)=(((x^(2)+((9)/(80)) y^(2))^(((1)/(2)))+(-3 x^(2)-((729)/(80)) y^(2)+4)^(((1)/(2))))/(2))-0.02 y tambien b(x,y)=(((x^(2)+((9)/(80)) y^(2))^(((1)/(2)))-(-3 x^(2)-((729)/(80)) y^(2)+4)^(((1)/(2))))/(2))')
 });
 
 const noBtn = document.querySelector('#noBtn');
